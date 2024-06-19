@@ -1,0 +1,2 @@
+4- Add, locally, a file with some text. Commit the changes. Can you see the commit
+operation in the “Git Output” window?

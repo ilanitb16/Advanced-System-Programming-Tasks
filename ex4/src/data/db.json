@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "WEATHER REPORT",
+        "author": "ILANIT BERDITCHEVSKI",
+        "category": "WEATHER",
+        "publication_date": "2024-1-11",
+        "icon": "umbrella.svg"
+    },
+    {
+        "id": 2,
+        "title": "UNICORN SPOTTED AT BAR ILAN UNIVERSITY",
+        "author": "ILANIT BERDITCHEVSKI",
+        "category": "NATURE",
+        "publication_date": "2024-1-10",
+        "icon": "sunset.png"
+    }
+]

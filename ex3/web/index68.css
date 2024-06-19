@@ -1,0 +1,16 @@
+button{
+    background-color:#00FF00;
+    color:#FF0000;
+    font-size:18pt;
+    margin:10px;
+}
+
+.large-button{
+    font-size:25pt;
+    background-color:#00FFFF;
+}
+
+.red-bg{
+    background-color:#FF0000;
+    color: #FFFFFF
+}    

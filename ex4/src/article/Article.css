@@ -1,0 +1,56 @@
+article{
+    padding: 10px;
+    margin: 5px;
+    background-color:lightgray;
+    color: #000;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.title{
+    padding: 10px;
+    margin: 5px;
+    color: #000;
+    font-family: cursive;
+    font-size: 40px;
+}
+
+svg{
+    width: 30px;
+    height: 30px;
+}
+
+.publication-date{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+div{
+    display: inline-block;
+    width: 50%;
+}
+
+.add-button{
+    background: lightgrey;
+    border-radius: 999px;
+    box-shadow: #9090e4 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: fit-content;
+    word-break: break-word;
+    border: 0;
+    
+}
+
+
